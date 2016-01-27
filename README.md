@@ -6,7 +6,8 @@ Takes an array of dot-notated keys and only allows those keys to be included in 
 ### Example Usage
 
 
-```var whitelist = require('dot-whitelist');
+```
+var whitelist = require('dot-whitelist');
 
 var input = { 
     top: {
